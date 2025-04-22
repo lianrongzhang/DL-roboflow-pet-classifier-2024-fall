@@ -21,3 +21,11 @@ npm run dev
 
 # Build for production
 npm run build
+```
+🔑 About the API Key
+This project uses a public Roboflow API key embedded in the frontend for convenience and quick prototyping (free-tier usage).
+
+
+⚠️ Security Notice: The API key is exposed in the source code. This is intentional for demo purposes.
+Please do not abuse it. Be cool. 😎
+For production or private use, consider moving the key to a backend service or securing it with environment variables.
