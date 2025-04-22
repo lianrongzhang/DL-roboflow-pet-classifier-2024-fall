@@ -1,5 +1,23 @@
-# Vue 3 + Vite
+# 🐶🐱 Roboflow Pet Classifier
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A lightweight pet image classifier built with [Roboflow](https://roboflow.com/) and YOLOv5 to distinguish between cats and dogs. The frontend is developed using Vue 3 + Tailwind CSS.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+🔗 [Live Demo](https://lianrongzhang.github.io/DL-roboflow-pet-classifier-2024-fall/)
+
+## 🚀 Tech Stack
+
+- YOLOv5 object detection model (trained via Roboflow)
+- Vue 3 + Vite frontend
+- Tailwind CSS for styling
+
+## 📦 Getting Started
+
+```bash
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+
+# Build for production
+npm run build
