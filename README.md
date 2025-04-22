@@ -27,6 +27,6 @@ This project uses a public Roboflow API key embedded in the frontend for conveni
 
 ⚠️ Security Notice: The API key is exposed in the source code. This is intentional for demo purposes.
 
-**Please do not abuse it. Be cool.** 😎
+**Please do not abuse it, thanks** 😎
 
 For production or private use, consider moving the key to a backend service or securing it with environment variables.
